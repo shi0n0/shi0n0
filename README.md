@@ -1,10 +1,11 @@
-### Hi there ☠️
 <a href="https://github.com/shi0n0">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=shi0n0&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/shi0n0">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi0n0&layout=compact&theme=dracula" />
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **shi0n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
