@@ -1,4 +1,6 @@
 # Hi, Thank you for coming!
+
+## 📊 My stats
 <a href="https://github.com/shi0n0">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=shi0n0&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -48,6 +50,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat")
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+## 🏆 My trophy
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=shi0n0&theme=onedark" />
 </a>
