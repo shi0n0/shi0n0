@@ -54,3 +54,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=shi0n0&theme=onedark" />
 </a>
+
+### Thank you for visiting me
+![Visitor Count](https://profile-counter.glitch.me/shi0n0/count.svg)
