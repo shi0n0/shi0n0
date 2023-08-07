@@ -3,8 +3,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shi0n0&show_icons=true&locale=en" alt="shi0n0" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=shi0n0&label=Profile%20views&color=0e75b6&style=flat" alt="shi0n0" /> </p>
-
 - 🔭 I’m currently working on [Plus-Space](https://github.com/shi0n0/Plus-Space)
 
 - 🌱 I’m currently learning **DJango,Vue.js,TypeScript**
