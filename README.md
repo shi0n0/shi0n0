@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Plus-Space](https://github.com/shi0n0/Plus-Space)
 
-- 🌱 I’m currently learning **Next.js,DJango,Vue.js,TypeScript**
+- 🌱 I’m currently learning **Next.js13.4(App Router),Supabase,Vercel,DJango,Vue.js,TypeScript**
 
 <p align="left">
 </p>
