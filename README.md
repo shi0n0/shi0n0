@@ -3,6 +3,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shi0n0&show_icons=true&locale=en" alt="shi0n0" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi0n0&theme=vue)
+
+
 - 🔭 I’m currently working on [Image-Gallery](https://github.com/shi0n0/Image-Gallery)
 
 - 🌱 I’m currently learning **Next.js13.4(App Router),TypeScript,Tailwind,Supabase,Vercel**
