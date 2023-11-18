@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Image-Gallery](https://github.com/shi0n0/Image-Gallery)
 
-- 🌱 I’m currently learning **Next.js13.4(App Router),TypeScript,Tailwind,Supabase,Vercel**
+- 🌱 I’m currently learning **Next.js14(App Router),TypeScript,Tailwind,Supabase,Vercel**
 
 <p align="left">
 </p>
