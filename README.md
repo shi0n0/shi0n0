@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shi0n0</h1>
 <h3 align="center">I'm a rookie engineer in Japan!</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shi0n0&show_icons=true&locale=en" alt="shi0n0" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-shi0n0.vercel.app/api?username=shi0n0&show_icons=true&locale=en" alt="shi0n0" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi0n0&theme=vue)
 
