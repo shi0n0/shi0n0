@@ -3,7 +3,7 @@
 
 <h3 align="left">📊 My Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-stats-shi0n0.vercel.app/api?username=shi0n0&show_icons=true&locale=en" alt="shi0n0" />
-&nbsp;<img align="center" src="https://github-stats-shi0n0.vercel.app/api/top-langs/?username=shi0n0&layout=donut" alt="shi0n0" /></p>
+&nbsp;<img align="center" src="https://github-stats-shi0n0.vercel.app/api/top-langs/?username=shi0n0&layout=compact" alt="shi0n0" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi0n0&theme=vue)
 
