@@ -13,7 +13,7 @@
 
 - 🛠️ My recently created website [Shibuya de Image Change](https://www.imechen-shibuya.com)
     
-- 🌱 I’m currently learning **Next.js14(App Router),TypeScript,Shadcn,Tailwind,Supabase,Vercel**
+- 🌱 I’m currently learning **Flutter,Next.js14(App Router),TypeScript,Shadcn,Tailwind,Supabase,Vercel**
 
 <p>
     
