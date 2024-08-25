@@ -9,7 +9,7 @@
 
 <h3 align="left">💪 My Effort:</h3>
 
-- 🔭 I’m currently working on [e名刺](https://github.com/shi0n0/e-meishi)
+- 🔭 I’m currently developing [e名刺](https://github.com/shi0n0/e-meishi)
 
 - 🛠️ My recently created website [Shibuya de Image Change](https://www.imechen-shibuya.com)
     
@@ -78,7 +78,7 @@
     </a> 
 </p>
 
-<h3 ailgn="left">Future Learning Interests</h3>
+<h3 ailgn="left">Future Learning Interests:</h3>
 <p align="left">
      <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
