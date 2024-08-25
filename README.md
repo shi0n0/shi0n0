@@ -9,7 +9,7 @@
 
 <h3 align="left">💪 My Effort:</h3>
 
-- 🔭 I’m currently working on [Image-Gallery](https://github.com/shi0n0/Image-Gallery)
+- 🔭 I’m currently working on [e名刺](https://github.com/shi0n0/e-meishi)
 
 - 🛠️ My recently created website [Shibuya de Image Change](https://www.imechen-shibuya.com)
     
