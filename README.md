@@ -13,7 +13,7 @@
 
 - 🛠️ My recently created website [Shibuya de Image Change](https://www.imechen-shibuya.com)
     
-- 🌱 I’m currently learning: **Flutter,Firebase | Next.js14(App Router),TypeScript,Supabase | Tailwind,Shadcn | Vercel**
+- 🌱 I’m currently learning: **Flutter(RiverPod),Firebase | Next.js14(App Router),TypeScript,Supabase | Tailwind,Shadcn | Vercel**
 
 <p>
     
