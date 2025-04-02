@@ -12,6 +12,8 @@
 - 🔭 I’m currently developing [e名刺](https://github.com/shi0n0/e-meishi)
 
 - 🛠️ My recently created website [Shibuya de Image Change](https://www.imechen-shibuya.com)
+
+- 🛠️ My recently created mobile app [Shibuya Buddy](https://github.com/Haru-Kobayashi073/Shibuya-Buddy)
     
 - 🌱 I’m currently learning: **Flutter(RiverPod) | vue,Nuxt | TypeScript | Tailwind,Shadcn/UI,DaisyUI | firebase,supabase | Vercel**
 
