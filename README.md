@@ -15,7 +15,7 @@
 
 - 🛠️ My recently created mobile app [Shibuya Buddy](https://github.com/Haru-Kobayashi073/Shibuya-Buddy)
     
-- 🌱 I’m currently learning: **Flutter(RiverPod) | vue,Nuxt | TypeScript | Tailwind,Shadcn/UI,DaisyUI | firebase,supabase | Vercel**
+- 🌱 I’m currently learning: **Flutter(RiverPod) |　Java | vue,Nuxt | TypeScript | Tailwind,Shadcn/UI,DaisyUI | firebase,supabase | Vercel**
 
 <p>
     
